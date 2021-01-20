@@ -703,6 +703,7 @@ if ( ! CUSTOM_TAGS ) {
 		'frac12',
 		'frac34',
 		'there4',
+		'colon'
 	);
 
 	/**
